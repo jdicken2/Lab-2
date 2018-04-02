@@ -20,8 +20,8 @@ Configuration Instructions (Linux, Ubuntu 16.04)
 Deploy Instructions (Linux, Ubuntu 16.04)
 ----------------------------------------------------------------------------------
 1. Cd into the Task 3 Directory
-2. Run javac VehicleEngine.java VehicleTypes.Java Vehicle.java ArrayOfVehicles.java AnotherVehicleClient.java (in that order)
-3. Run java Julian.AnotherVehicleClient
+2. $ javac VehicleEngine.java VehicleTypes.Java Vehicle.java ArrayOfVehicles.java AnotherVehicleClient.java (in that order)
+3. $ java Julian.AnotherVehicleClient
 
 Credits and Acknowledgements
 ----------------------------------------------------------------------------------
